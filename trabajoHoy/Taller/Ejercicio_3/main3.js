@@ -1,0 +1,10 @@
+let num1 = 2;
+let num2 = 3;
+suma = num1 + num2;
+resta = num1 - num2;
+multplicacion = num1 * num2;
+divicion = num1 / num2;
+console.log("la suma es igual a " + suma);
+console.log("la resta es igual a " + resta);
+console.log("la multiplicacion es igual a " + multplicacion);
+console.log("la divicion es igual a " + divicion);
